@@ -1,8 +1,0 @@
-{
-  "method": "3_hardware_split",
-  "duration_sec": 20.524102449417114,
-  "pipeline_fps": 0.0,
-  "vision_fps": 0.0,
-  "actions": 0,
-  "avg_latency_ms": 0.0
-}

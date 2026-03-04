@@ -1,8 +1,0 @@
-{
-  "method": "5_beast",
-  "duration_sec": 20.536139726638794,
-  "pipeline_fps": 0.0,
-  "vision_fps": 0.0,
-  "actions": 0,
-  "avg_latency_ms": 0.0
-}
