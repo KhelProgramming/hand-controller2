@@ -1,0 +1,8 @@
+{
+  "method": "1_sync",
+  "duration_sec": 65.76681756973267,
+  "pipeline_fps": 8.91,
+  "vision_fps": 61.93,
+  "actions": 579,
+  "avg_latency_ms": 33.33
+}

@@ -56,8 +56,7 @@ from .base import (
     GestureResult,
     GestureRecognizer,
     GESTURE_HAND_OPEN,
-    GESTURE_PALM_FACING,
-    GESTURE_PINCH_INDEX,
+    GESTURE
     GESTURE_PINCH_INDEX_DOWN,
     GESTURE_PINCH_MIDDLE,
     GESTURE_PINCH_MIDDLE_DOWN,

@@ -1,0 +1,8 @@
+{
+  "method": "2_thread_baseline",
+  "duration_sec": 20.53478765487671,
+  "pipeline_fps": 0.0,
+  "vision_fps": 0.0,
+  "actions": 0,
+  "avg_latency_ms": 0.0
+}
